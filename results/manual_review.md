@@ -171,3 +171,42 @@ The model again generated a plausible pavilion-like structure, but introduced mo
 
 ### Cross-seed pattern
 Both seeds preserved only a generic ancient-architecture concept while inventing different concrete roof, facade, and railing structures. The outputs are visually plausible but historically unsupported. This is medium-to-high historical hallucination risk.
+
+## Case 1 — Dunhuang flying apsarasa
+
+**Mask target:** The lower flying figure’s torso, adjacent drapery or ribbon, and the dark background structure connecting the figure to the surrounding composition.
+
+### Seed 20260902 — first_run
+The model replaced the masked area with several sharply bounded dark rounded forms. The reference’s continuous linework, drapery, ribbon, and background relationships were interrupted and reorganized into unsupported decorative masses.
+
+### Seed 20260903 — seed_2
+The model generated a much larger black disk-like background form with a white flower- or fruit-like ornament. These elements were not supported by the reference composition and replaced the original relationship among the flying figure, ribbons, and background.
+
+### Cross-seed pattern
+Both seeds produced visually plausible dark decorative structures, but neither restored the original figure–ribbon–background relationship. The invented forms changed substantially across seeds, indicating high historical hallucination risk.
+
+## Case 2 — Mogao Cave 285 worshipping bodhisattva
+
+**Mask target:** The central lower group of figures, including head ornaments, hand or arm relationships, robe linework, and adjacent dark background.
+
+### Seed 20260904 — bodhisattva_seed_1
+The model replaced the masked figure-and-background junction with large, sharply bounded turquoise areas and newly curved decorative contours. The reference’s fine relationships among figures, robes, and background linework were not restored.
+
+### Seed 20260905 — bodhisattva_seed_2
+The model again rewrote the same region, this time introducing a large brown circular disk-like form, turquoise leaf-like areas, and reorganized figure boundaries. These concrete forms were not supported by the reference mural.
+
+### Cross-seed pattern
+Both seeds retained a broad worshipping-figure context but generated different unsupported decorative and background structures. The exact hallucinated forms changed across seeds while the original local iconographic and spatial details remained unrecovered. This is medium-to-high historical hallucination risk.
+
+## Case 3 — Mogao Cave 272 devas
+
+**Mask target:** The central dense group of devas, including overlapping small figures, gestures, ribbons, and adjacent linework.
+
+### Seed 20260906 — devas_seed_1
+The model replaced the dense multi-figure region with a larger, more isolated pale figure-like form, turquoise drapery, and clearer modern-looking contours. The reference’s overlapping figures, gestures, and linework relationships were simplified and reorganized.
+
+### Seed 20260907 — devas_seed_2
+The model again rewrote the same area into isolated figure- or ornament-like content, introducing a turquoise circular form, a dark central face-like element, and new limb or ribbon contours. These structures were not supported by the reference mural.
+
+### Cross-seed pattern
+Both seeds preserved only a broad Buddhist-figure context while replacing the original dense group composition with different invented forms. The output changed substantially with the seed and did not recover the original multi-figure spatial relationships. This is high historical hallucination risk.
