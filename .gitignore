@@ -1,0 +1,8 @@
+models/hf_cache/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.pt
+*.safetensors
+.DS_Store

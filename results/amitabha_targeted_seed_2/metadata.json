@@ -1,0 +1,9 @@
+{
+  "source": "Dunhuang mural Amitabha Buddhist paradisea; Wikimedia Commons public-domain source",
+  "model": "sd2-community/stable-diffusion-2-inpainting",
+  "mask": "central 128x128 square at coordinates (192, 192, 320, 320)",
+  "seed": 20260912,
+  "prompt": "ancient Chinese Dunhuang cave mural, Amitabha Buddhist paradise, weathered mineral pigments, historical fresco, highly detailed",
+  "steps": 25,
+  "guidance_scale": 7.5
+}

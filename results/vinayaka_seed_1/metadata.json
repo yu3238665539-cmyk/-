@@ -1,0 +1,9 @@
+{
+  "source": "Dunhuang mural Western Wei Dunhuang mural of Vinayaka, elephant-headed deity with halo and attendant, weathered mineral pigmentsa; Wikimedia Commons public-domain source",
+  "model": "sd2-community/stable-diffusion-2-inpainting",
+  "mask": "central 128x128 square at coordinates (192, 192, 320, 320)",
+  "seed": 20260925,
+  "prompt": "ancient Chinese Dunhuang cave mural, Western Wei Dunhuang mural of Vinayaka, elephant-headed deity with halo and attendant, weathered mineral pigments, weathered mineral pigments, historical fresco, highly detailed",
+  "steps": 25,
+  "guidance_scale": 7.5
+}

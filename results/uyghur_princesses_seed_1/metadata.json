@@ -1,0 +1,9 @@
+{
+  "source": "Dunhuang mural Dunhuang Mogao Cave 409 mural, Uyghur princesses with ornate headdresses and historical costumes, weathered pigmentsa; Wikimedia Commons public-domain source",
+  "model": "sd2-community/stable-diffusion-2-inpainting",
+  "mask": "central 128x128 square at coordinates (192, 192, 320, 320)",
+  "seed": 20260923,
+  "prompt": "ancient Chinese Dunhuang cave mural, Dunhuang Mogao Cave 409 mural, Uyghur princesses with ornate headdresses and historical costumes, weathered pigments, weathered mineral pigments, historical fresco, highly detailed",
+  "steps": 25,
+  "guidance_scale": 7.5
+}

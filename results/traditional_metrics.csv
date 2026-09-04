@@ -1,0 +1,31 @@
+sample,seed,run_folder,full_image_psnr,full_image_ssim,masked_region_psnr,masked_region_ssim
+Dunhuang flying apsarasa,20260902,first_run,20.83,0.9432,8.857,0.1189
+Dunhuang flying apsarasa,20260903,seed_2,17.17,0.9402,5.196,0.0739
+Mogao Cave 285 worshipping bodhisattva,20260904,bodhisattva_seed_1,27.024,0.9444,15.051,0.1339
+Mogao Cave 285 worshipping bodhisattva,20260905,bodhisattva_seed_2,27.798,0.9473,15.824,0.1852
+Mogao Cave 272 devas,20260906,devas_seed_1,27.972,0.946,15.999,0.1593
+Mogao Cave 272 devas,20260907,devas_seed_2,28.789,0.9466,16.815,0.1752
+Mogao Cave 322 Bhaisajyaguru mural,20260908,bhaisajyaguru_seed_1,27.028,0.943,15.054,0.1086
+Mogao Cave 322 Bhaisajyaguru mural,20260909,bhaisajyaguru_seed_2,28.693,0.9462,16.72,0.1613
+Mogao Cave 172 Buddhist Paradise of Amitabha,20260911,amitabha_targeted_seed_1,23.637,0.9388,11.664,0.0457
+Mogao Cave 172 Buddhist Paradise of Amitabha,20260912,amitabha_targeted_seed_2,23.705,0.9398,11.732,0.0666
+Dunhuang historical narrative scene,20260913,taizong_scene_seed_1,27.531,0.9491,15.557,0.2096
+Dunhuang historical narrative scene,20260914,taizong_scene_seed_2,26.193,0.9482,14.219,0.2028
+"Portrait detail from The Governor’s Wife Offering, Mogao Cave 130",20260915,lady_wang_seed_1,33.88,0.98,21.906,0.6845
+"Portrait detail from The Governor’s Wife Offering, Mogao Cave 130",20260916,lady_wang_seed_2,33.743,0.9794,21.769,0.6784
+"Tiger Jataka, Mogao Cave 254, Northern Wei",20260917,tiger_jataka_seed_1,24.96,0.943,12.987,0.1143
+"Tiger Jataka, Mogao Cave 254, Northern Wei",20260918,tiger_jataka_seed_2,24.388,0.9405,12.415,0.0748
+"Mural Avolokitesvara, Tang Dynasty, Dunhuang",20260919,avolokitesvara_seed_1,27.601,0.9448,15.628,0.1558
+"Mural Avolokitesvara, Tang Dynasty, Dunhuang",20260920,avolokitesvara_seed_2,21.444,0.518,13.906,0.1496
+"Story of the Five Hundred Robbers, Mogao Cave 285, Western Wei",20260921,five_hundred_robbers_seed_1,18.982,0.5908,10.838,0.0745
+"Story of the Five Hundred Robbers, Mogao Cave 285, Western Wei",20260922,five_hundred_robbers_seed_2,19.201,0.5907,11.519,0.1022
+"Uyghur princesses, Mogao Cave 409",20260923,uyghur_princesses_seed_1,23.23,0.6155,14.367,0.156
+"Uyghur princesses, Mogao Cave 409",20260924,uyghur_princesses_seed_2,23.132,0.6139,14.289,0.1446
+"Mogao mural of Vinayaka, Cave 285, Western Wei",20260925,vinayaka_seed_1,23.73,0.5782,15.318,0.1323
+"Mogao mural of Vinayaka, Cave 285, Western Wei",20260926,vinayaka_seed_2,23.809,0.574,15.617,0.1135
+"Lotus Sutra tableau, Mogao Cave 217, High Tang",20260927,lotus_sutra_seed_1,22.571,0.4855,17.7,0.1082
+"Lotus Sutra tableau, Mogao Cave 217, High Tang",20260928,lotus_sutra_seed_2,21.821,0.4819,15.41,0.1178
+"Pipa player mural, Mogao Cave 220",20260929,pipa_seed_1,19.337,0.4566,12.844,0.07
+"Pipa player mural, Mogao Cave 220",20260930,pipa_seed_2,19.268,0.4579,12.592,0.0965
+"Architecture detail from Mogao Cave 217, Tang Dynasty",20261001,architecture_seed_1,17.655,0.4756,12.309,0.0626
+"Architecture detail from Mogao Cave 217, Tang Dynasty",20261002,architecture_seed_2,17.647,0.4717,12.35,0.0711
